@@ -1,0 +1,4 @@
+......................
+Main Blue : #3559e0
+Darker Blue : #4cb9e7
+White : ffffff
